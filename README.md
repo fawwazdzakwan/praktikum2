@@ -11,7 +11,7 @@
 7. jika hasil lebih besar **B** **cout** **B** dan sebaliknya
 
 **flowchart program**
-[flowchart](https://raw.githubusercontent.com/Amirul29/Praktikum2/master/FLOWCHART1.jpg)
+[flowchart](https://raw.githubusercontent.com/fawwazdzakwan/Praktikum2/FLOWCHART1.jpg)
 
 **CODE PROGRAM**
 '''c++
@@ -41,7 +41,7 @@ int main()
 '''|
 
 hasilnya :
-[img](https://raw.githubusercontent.com/Amirul29/Praktikum2/master/pic1.png)
+[img](https://raw.githubusercontent.com/fawwazdzakwan/Praktikum2/Screenshot latihan1.png)
 
 
 ## latihan2.cpp menghitung bilangan terbesar dari 4 bilangan
@@ -58,7 +58,7 @@ hasilnya :
 10. dan jika kondisi **false** maka cetaklah **D**
 
 **flowchart program**
-[flowchart](https://raw.githubusercontent.com/Amirul29/Praktikum2/master/FLOWCHARTLT2.jpg)
+[flowchart](https://raw.githubusercontent.com/fawwazdzakwan/Praktikum2/FLOWCHARTLT2.jpg)
   
 **CODE PROGRAM**
 '''c++
@@ -93,5 +93,5 @@ int main()
 '''|
 
 hasilnya :
-[img}(https://raw.githubusercontent.com/Amirul29/Praktikum2/master/pic2.png)
+[img}(https://raw.githubusercontent.com/fawwazdzakwan/Praktikum2/Screenschot latihan2.png)
 
